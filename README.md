@@ -5,7 +5,7 @@
 ## Установка
 1. Склонируйте репозиторий
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/elenaterehova/EM_api.git
    ```
 2. Создайте виртуальную среду и активируйте ее
    ```sh
